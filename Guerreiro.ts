@@ -58,4 +58,4 @@ export class Guerreiro extends Personagem {
       console.log(`${oponente.nome} esquivou o ataque de ${this._nome}`);
     }
   }
-}
+}   
